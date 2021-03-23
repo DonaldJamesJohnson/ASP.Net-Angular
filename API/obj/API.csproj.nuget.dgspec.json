@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/dj/Nextcloud/Computer_Science/asp_net_angular/ASP.Net-Angular/API/API.csproj": {}
+    "/home/dj/Nextcloud/Computer_Science/asp_net_angular/DatingApp/API/API.csproj": {}
   },
   "projects": {
-    "/home/dj/Nextcloud/Computer_Science/asp_net_angular/ASP.Net-Angular/API/API.csproj": {
+    "/home/dj/Nextcloud/Computer_Science/asp_net_angular/DatingApp/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/dj/Nextcloud/Computer_Science/asp_net_angular/ASP.Net-Angular/API/API.csproj",
+        "projectUniqueName": "/home/dj/Nextcloud/Computer_Science/asp_net_angular/DatingApp/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/home/dj/Nextcloud/Computer_Science/asp_net_angular/ASP.Net-Angular/API/API.csproj",
+        "projectPath": "/home/dj/Nextcloud/Computer_Science/asp_net_angular/DatingApp/API/API.csproj",
         "packagesPath": "/home/dj/.nuget/packages/",
-        "outputPath": "/home/dj/Nextcloud/Computer_Science/asp_net_angular/ASP.Net-Angular/API/obj/",
+        "outputPath": "/home/dj/Nextcloud/Computer_Science/asp_net_angular/DatingApp/API/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -41,6 +41,26 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
