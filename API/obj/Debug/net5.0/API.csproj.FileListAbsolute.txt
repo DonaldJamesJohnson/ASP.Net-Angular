@@ -62,3 +62,6 @@
 /home/dj/Nextcloud/Computer_Science/asp_net_angular/DatingApp/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /home/dj/Nextcloud/Computer_Science/asp_net_angular/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
 /home/dj/Nextcloud/Computer_Science/asp_net_angular/DatingApp/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/dj/Nextcloud/Computer_Science/asp_net_angular/DatingApp/API/bin/Debug/net5.0/Data/UserSeedData.json
+/home/dj/Nextcloud/Computer_Science/asp_net_angular/DatingApp/API/bin/Debug/net5.0/AutoMapper.dll
+/home/dj/Nextcloud/Computer_Science/asp_net_angular/DatingApp/API/bin/Debug/net5.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
