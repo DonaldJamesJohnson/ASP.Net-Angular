@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "eYHsXHOuodkP8N84ZSGEhPB98AH4LIBa55JRL/JOsfWxUgR6Hn++dREXA52Fvq++DlYandahKDN55MxrKTWc5w==",
+  "dgSpecHash": "r2crCs7hTzp44YrxXUpraa3+/SXVdmmJM1e+jjCYUh1lW4Uzm1MCyjIq6zKUbW0ybXlWcv1RvR9pTizIT6N6jw==",
   "success": true,
   "projectFilePath": "/home/dj/Nextcloud/Computer_Science/asp_net_angular/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
+    "/home/dj/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/home/dj/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "/home/dj/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/dj/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.4/microsoft.aspnetcore.authentication.jwtbearer.5.0.4.nupkg.sha512",
     "/home/dj/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
@@ -47,6 +49,7 @@
     "/home/dj/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "/home/dj/.nuget/packages/system.identitymodel.tokens.jwt/6.9.0/system.identitymodel.tokens.jwt.6.9.0.nupkg.sha512",
     "/home/dj/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/home/dj/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
     "/usr/share/dotnet/sdk/NuGetFallbackFolder/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
